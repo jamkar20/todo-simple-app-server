@@ -1,0 +1,28 @@
+{
+  "name": "todo-simple-app-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamkar20/todo-simple-app-server.git"
+  },
+  "keywords": [
+    "todo",
+    "app",
+    "web"
+  ],
+  "author": "jamal kargar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamkar20/todo-simple-app-server/issues"
+  },
+  "homepage": "https://github.com/jamkar20/todo-simple-app-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
