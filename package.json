@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/jamkar20/todo-simple-app-server#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
